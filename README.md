@@ -1,4 +1,4 @@
-# Nwjs64
+# nw.js_w64.msi
 nwjs win 64-bit package 
 
 Please see details in https://github.com/nwjs/nw.js
