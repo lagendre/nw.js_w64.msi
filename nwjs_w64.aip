@@ -50,69 +50,69 @@
     <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
-    <ROW File="am.pak" Component_="am.pak" FileName="am.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\am.pak" SelfReg="false" NextFile="ar.pak"/>
-    <ROW File="ar.pak" Component_="am.pak" FileName="ar.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ar.pak" SelfReg="false" NextFile="bg.pak"/>
-    <ROW File="bg.pak" Component_="am.pak" FileName="bg.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\bg.pak" SelfReg="false" NextFile="bn.pak"/>
-    <ROW File="bn.pak" Component_="am.pak" FileName="bn.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\bn.pak" SelfReg="false" NextFile="ca.pak"/>
-    <ROW File="ca.pak" Component_="am.pak" FileName="ca.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ca.pak" SelfReg="false" NextFile="cs.pak"/>
-    <ROW File="credits.html" Component_="credits.html" FileName="CREDIT~1.HTM|credits.html" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\credits.html" SelfReg="false" NextFile="d3dcompiler_47.dll"/>
-    <ROW File="cs.pak" Component_="am.pak" FileName="cs.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\cs.pak" SelfReg="false" NextFile="da.pak"/>
-    <ROW File="d3dcompiler_47.dll" Component_="d3dcompiler_47.dll" FileName="D3DCOM~1.DLL|d3dcompiler_47.dll" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\d3dcompiler_47.dll" SelfReg="false" NextFile="ffmpegsumo.dll"/>
-    <ROW File="da.pak" Component_="am.pak" FileName="da.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\da.pak" SelfReg="false" NextFile="de.pak"/>
-    <ROW File="de.pak" Component_="am.pak" FileName="de.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\de.pak" SelfReg="false" NextFile="el.pak"/>
-    <ROW File="el.pak" Component_="am.pak" FileName="el.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\el.pak" SelfReg="false" NextFile="enGB.pak"/>
-    <ROW File="enGB.pak" Component_="am.pak" FileName="en-GB.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\en-GB.pak" SelfReg="false" NextFile="enUS.pak"/>
-    <ROW File="enUS.pak" Component_="am.pak" FileName="en-US.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\en-US.pak" SelfReg="false" NextFile="es419.pak"/>
-    <ROW File="es.pak" Component_="am.pak" FileName="es.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\es.pak" SelfReg="false" NextFile="et.pak"/>
-    <ROW File="es419.pak" Component_="am.pak" FileName="es-419.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\es-419.pak" SelfReg="false" NextFile="es.pak"/>
-    <ROW File="et.pak" Component_="am.pak" FileName="et.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\et.pak" SelfReg="false" NextFile="fa.pak"/>
-    <ROW File="fa.pak" Component_="am.pak" FileName="fa.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\fa.pak" SelfReg="false" NextFile="fi.pak"/>
-    <ROW File="ffmpegsumo.dll" Component_="ffmpegsumo.dll" FileName="FFMPEG~1.DLL|ffmpegsumo.dll" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\ffmpegsumo.dll" SelfReg="false" NextFile="icudtl.dat"/>
-    <ROW File="fi.pak" Component_="am.pak" FileName="fi.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\fi.pak" SelfReg="false" NextFile="fil.pak"/>
-    <ROW File="fil.pak" Component_="am.pak" FileName="fil.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\fil.pak" SelfReg="false" NextFile="fr.pak"/>
-    <ROW File="fr.pak" Component_="am.pak" FileName="fr.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\fr.pak" SelfReg="false" NextFile="gu.pak"/>
-    <ROW File="gu.pak" Component_="am.pak" FileName="gu.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\gu.pak" SelfReg="false" NextFile="hi.pak"/>
-    <ROW File="hi.pak" Component_="am.pak" FileName="hi.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\hi.pak" SelfReg="false" NextFile="hr.pak"/>
-    <ROW File="hr.pak" Component_="am.pak" FileName="hr.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\hr.pak" SelfReg="false" NextFile="hu.pak"/>
-    <ROW File="hu.pak" Component_="am.pak" FileName="hu.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\hu.pak" SelfReg="false" NextFile="id.pak"/>
-    <ROW File="icudtl.dat" Component_="credits.html" FileName="icudtl.dat" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\icudtl.dat" SelfReg="false" NextFile="libEGL.dll"/>
-    <ROW File="id.pak" Component_="am.pak" FileName="id.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\id.pak" SelfReg="false" NextFile="it.pak"/>
-    <ROW File="it.pak" Component_="am.pak" FileName="it.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\it.pak" SelfReg="false" NextFile="iw.pak"/>
-    <ROW File="iw.pak" Component_="am.pak" FileName="iw.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\iw.pak" SelfReg="false" NextFile="ja.pak"/>
-    <ROW File="ja.pak" Component_="am.pak" FileName="ja.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ja.pak" SelfReg="false" NextFile="kn.pak"/>
-    <ROW File="kn.pak" Component_="am.pak" FileName="kn.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\kn.pak" SelfReg="false" NextFile="ko.pak"/>
-    <ROW File="ko.pak" Component_="am.pak" FileName="ko.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ko.pak" SelfReg="false" NextFile="lt.pak"/>
-    <ROW File="libEGL.dll" Component_="libEGL.dll" FileName="libEGL.dll" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\libEGL.dll" SelfReg="false" NextFile="libGLESv2.dll"/>
-    <ROW File="libGLESv2.dll" Component_="libGLESv2.dll" FileName="LIBGLE~1.DLL|libGLESv2.dll" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\libGLESv2.dll" SelfReg="false" NextFile="nw.exe"/>
-    <ROW File="lt.pak" Component_="am.pak" FileName="lt.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\lt.pak" SelfReg="false" NextFile="lv.pak"/>
-    <ROW File="lv.pak" Component_="am.pak" FileName="lv.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\lv.pak" SelfReg="false" NextFile="ml.pak"/>
-    <ROW File="ml.pak" Component_="am.pak" FileName="ml.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ml.pak" SelfReg="false" NextFile="mr.pak"/>
-    <ROW File="mr.pak" Component_="am.pak" FileName="mr.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\mr.pak" SelfReg="false" NextFile="ms.pak"/>
-    <ROW File="ms.pak" Component_="am.pak" FileName="ms.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ms.pak" SelfReg="false" NextFile="nl.pak"/>
-    <ROW File="nl.pak" Component_="am.pak" FileName="nl.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\nl.pak" SelfReg="false" NextFile="no.pak"/>
-    <ROW File="no.pak" Component_="am.pak" FileName="no.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\no.pak" SelfReg="false" NextFile="pl.pak"/>
-    <ROW File="nw.exe" Component_="nw.exe" FileName="nw.exe" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\nw.exe" SelfReg="false" NextFile="nw.pak" DigSign="true"/>
-    <ROW File="nw.pak" Component_="credits.html" FileName="nw.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\nw.pak" SelfReg="false" NextFile="nwjc.exe"/>
-    <ROW File="nwjc.exe" Component_="nwjc.exe" FileName="nwjc.exe" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\nwjc.exe" SelfReg="false" NextFile="pdf.dll" DigSign="true"/>
-    <ROW File="pdf.dll" Component_="pdf.dll" FileName="pdf.dll" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\pdf.dll" SelfReg="false" NextFile="am.pak"/>
-    <ROW File="pl.pak" Component_="am.pak" FileName="pl.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\pl.pak" SelfReg="false" NextFile="ptBR.pak"/>
-    <ROW File="ptBR.pak" Component_="am.pak" FileName="pt-BR.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\pt-BR.pak" SelfReg="false" NextFile="ptPT.pak"/>
-    <ROW File="ptPT.pak" Component_="am.pak" FileName="pt-PT.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\pt-PT.pak" SelfReg="false" NextFile="ro.pak"/>
-    <ROW File="ro.pak" Component_="am.pak" FileName="ro.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ro.pak" SelfReg="false" NextFile="ru.pak"/>
-    <ROW File="ru.pak" Component_="am.pak" FileName="ru.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ru.pak" SelfReg="false" NextFile="sk.pak"/>
-    <ROW File="sk.pak" Component_="am.pak" FileName="sk.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\sk.pak" SelfReg="false" NextFile="sl.pak"/>
-    <ROW File="sl.pak" Component_="am.pak" FileName="sl.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\sl.pak" SelfReg="false" NextFile="sr.pak"/>
-    <ROW File="sr.pak" Component_="am.pak" FileName="sr.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\sr.pak" SelfReg="false" NextFile="sv.pak"/>
-    <ROW File="sv.pak" Component_="am.pak" FileName="sv.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\sv.pak" SelfReg="false" NextFile="sw.pak"/>
-    <ROW File="sw.pak" Component_="am.pak" FileName="sw.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\sw.pak" SelfReg="false" NextFile="ta.pak"/>
-    <ROW File="ta.pak" Component_="am.pak" FileName="ta.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\ta.pak" SelfReg="false" NextFile="te.pak"/>
-    <ROW File="te.pak" Component_="am.pak" FileName="te.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\te.pak" SelfReg="false" NextFile="th.pak"/>
-    <ROW File="th.pak" Component_="am.pak" FileName="th.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\th.pak" SelfReg="false" NextFile="tr.pak"/>
-    <ROW File="tr.pak" Component_="am.pak" FileName="tr.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\tr.pak" SelfReg="false" NextFile="uk.pak"/>
-    <ROW File="uk.pak" Component_="am.pak" FileName="uk.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\uk.pak" SelfReg="false" NextFile="vi.pak"/>
-    <ROW File="vi.pak" Component_="am.pak" FileName="vi.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\vi.pak" SelfReg="false" NextFile="zhCN.pak"/>
-    <ROW File="zhCN.pak" Component_="am.pak" FileName="zh-CN.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\zh-CN.pak" SelfReg="false" NextFile="zhTW.pak"/>
-    <ROW File="zhTW.pak" Component_="am.pak" FileName="zh-TW.pak" Attributes="0" SourcePath="..\Downloads\nwjs-v0.12.2-win-x64\locales\zh-TW.pak" SelfReg="false"/>
+    <ROW File="am.pak" Component_="am.pak" FileName="am.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\am.pak" SelfReg="false" NextFile="ar.pak"/>
+    <ROW File="ar.pak" Component_="am.pak" FileName="ar.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ar.pak" SelfReg="false" NextFile="bg.pak"/>
+    <ROW File="bg.pak" Component_="am.pak" FileName="bg.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\bg.pak" SelfReg="false" NextFile="bn.pak"/>
+    <ROW File="bn.pak" Component_="am.pak" FileName="bn.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\bn.pak" SelfReg="false" NextFile="ca.pak"/>
+    <ROW File="ca.pak" Component_="am.pak" FileName="ca.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ca.pak" SelfReg="false" NextFile="cs.pak"/>
+    <ROW File="credits.html" Component_="credits.html" FileName="CREDIT~1.HTM|credits.html" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\credits.html" SelfReg="false" NextFile="d3dcompiler_47.dll"/>
+    <ROW File="cs.pak" Component_="am.pak" FileName="cs.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\cs.pak" SelfReg="false" NextFile="da.pak"/>
+    <ROW File="d3dcompiler_47.dll" Component_="d3dcompiler_47.dll" FileName="D3DCOM~1.DLL|d3dcompiler_47.dll" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\d3dcompiler_47.dll" SelfReg="false" NextFile="ffmpegsumo.dll"/>
+    <ROW File="da.pak" Component_="am.pak" FileName="da.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\da.pak" SelfReg="false" NextFile="de.pak"/>
+    <ROW File="de.pak" Component_="am.pak" FileName="de.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\de.pak" SelfReg="false" NextFile="el.pak"/>
+    <ROW File="el.pak" Component_="am.pak" FileName="el.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\el.pak" SelfReg="false" NextFile="enGB.pak"/>
+    <ROW File="enGB.pak" Component_="am.pak" FileName="en-GB.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\en-GB.pak" SelfReg="false" NextFile="enUS.pak"/>
+    <ROW File="enUS.pak" Component_="am.pak" FileName="en-US.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\en-US.pak" SelfReg="false" NextFile="es419.pak"/>
+    <ROW File="es.pak" Component_="am.pak" FileName="es.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\es.pak" SelfReg="false" NextFile="et.pak"/>
+    <ROW File="es419.pak" Component_="am.pak" FileName="es-419.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\es-419.pak" SelfReg="false" NextFile="es.pak"/>
+    <ROW File="et.pak" Component_="am.pak" FileName="et.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\et.pak" SelfReg="false" NextFile="fa.pak"/>
+    <ROW File="fa.pak" Component_="am.pak" FileName="fa.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\fa.pak" SelfReg="false" NextFile="fi.pak"/>
+    <ROW File="ffmpegsumo.dll" Component_="ffmpegsumo.dll" FileName="FFMPEG~1.DLL|ffmpegsumo.dll" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\ffmpegsumo.dll" SelfReg="false" NextFile="icudtl.dat"/>
+    <ROW File="fi.pak" Component_="am.pak" FileName="fi.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\fi.pak" SelfReg="false" NextFile="fil.pak"/>
+    <ROW File="fil.pak" Component_="am.pak" FileName="fil.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\fil.pak" SelfReg="false" NextFile="fr.pak"/>
+    <ROW File="fr.pak" Component_="am.pak" FileName="fr.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\fr.pak" SelfReg="false" NextFile="gu.pak"/>
+    <ROW File="gu.pak" Component_="am.pak" FileName="gu.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\gu.pak" SelfReg="false" NextFile="hi.pak"/>
+    <ROW File="hi.pak" Component_="am.pak" FileName="hi.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\hi.pak" SelfReg="false" NextFile="hr.pak"/>
+    <ROW File="hr.pak" Component_="am.pak" FileName="hr.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\hr.pak" SelfReg="false" NextFile="hu.pak"/>
+    <ROW File="hu.pak" Component_="am.pak" FileName="hu.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\hu.pak" SelfReg="false" NextFile="id.pak"/>
+    <ROW File="icudtl.dat" Component_="credits.html" FileName="icudtl.dat" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\icudtl.dat" SelfReg="false" NextFile="libEGL.dll"/>
+    <ROW File="id.pak" Component_="am.pak" FileName="id.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\id.pak" SelfReg="false" NextFile="it.pak"/>
+    <ROW File="it.pak" Component_="am.pak" FileName="it.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\it.pak" SelfReg="false" NextFile="iw.pak"/>
+    <ROW File="iw.pak" Component_="am.pak" FileName="iw.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\iw.pak" SelfReg="false" NextFile="ja.pak"/>
+    <ROW File="ja.pak" Component_="am.pak" FileName="ja.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ja.pak" SelfReg="false" NextFile="kn.pak"/>
+    <ROW File="kn.pak" Component_="am.pak" FileName="kn.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\kn.pak" SelfReg="false" NextFile="ko.pak"/>
+    <ROW File="ko.pak" Component_="am.pak" FileName="ko.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ko.pak" SelfReg="false" NextFile="lt.pak"/>
+    <ROW File="libEGL.dll" Component_="libEGL.dll" FileName="libEGL.dll" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\libEGL.dll" SelfReg="false" NextFile="libGLESv2.dll"/>
+    <ROW File="libGLESv2.dll" Component_="libGLESv2.dll" FileName="LIBGLE~1.DLL|libGLESv2.dll" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\libGLESv2.dll" SelfReg="false" NextFile="nw.exe"/>
+    <ROW File="lt.pak" Component_="am.pak" FileName="lt.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\lt.pak" SelfReg="false" NextFile="lv.pak"/>
+    <ROW File="lv.pak" Component_="am.pak" FileName="lv.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\lv.pak" SelfReg="false" NextFile="ml.pak"/>
+    <ROW File="ml.pak" Component_="am.pak" FileName="ml.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ml.pak" SelfReg="false" NextFile="mr.pak"/>
+    <ROW File="mr.pak" Component_="am.pak" FileName="mr.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\mr.pak" SelfReg="false" NextFile="ms.pak"/>
+    <ROW File="ms.pak" Component_="am.pak" FileName="ms.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ms.pak" SelfReg="false" NextFile="nl.pak"/>
+    <ROW File="nl.pak" Component_="am.pak" FileName="nl.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\nl.pak" SelfReg="false" NextFile="no.pak"/>
+    <ROW File="no.pak" Component_="am.pak" FileName="no.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\no.pak" SelfReg="false" NextFile="pl.pak"/>
+    <ROW File="nw.exe" Component_="nw.exe" FileName="nw.exe" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\nw.exe" SelfReg="false" NextFile="nw.pak" DigSign="true"/>
+    <ROW File="nw.pak" Component_="credits.html" FileName="nw.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\nw.pak" SelfReg="false" NextFile="nwjc.exe"/>
+    <ROW File="nwjc.exe" Component_="nwjc.exe" FileName="nwjc.exe" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\nwjc.exe" SelfReg="false" NextFile="pdf.dll" DigSign="true"/>
+    <ROW File="pdf.dll" Component_="pdf.dll" FileName="pdf.dll" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\pdf.dll" SelfReg="false" NextFile="am.pak"/>
+    <ROW File="pl.pak" Component_="am.pak" FileName="pl.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\pl.pak" SelfReg="false" NextFile="ptBR.pak"/>
+    <ROW File="ptBR.pak" Component_="am.pak" FileName="pt-BR.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\pt-BR.pak" SelfReg="false" NextFile="ptPT.pak"/>
+    <ROW File="ptPT.pak" Component_="am.pak" FileName="pt-PT.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\pt-PT.pak" SelfReg="false" NextFile="ro.pak"/>
+    <ROW File="ro.pak" Component_="am.pak" FileName="ro.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ro.pak" SelfReg="false" NextFile="ru.pak"/>
+    <ROW File="ru.pak" Component_="am.pak" FileName="ru.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ru.pak" SelfReg="false" NextFile="sk.pak"/>
+    <ROW File="sk.pak" Component_="am.pak" FileName="sk.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\sk.pak" SelfReg="false" NextFile="sl.pak"/>
+    <ROW File="sl.pak" Component_="am.pak" FileName="sl.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\sl.pak" SelfReg="false" NextFile="sr.pak"/>
+    <ROW File="sr.pak" Component_="am.pak" FileName="sr.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\sr.pak" SelfReg="false" NextFile="sv.pak"/>
+    <ROW File="sv.pak" Component_="am.pak" FileName="sv.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\sv.pak" SelfReg="false" NextFile="sw.pak"/>
+    <ROW File="sw.pak" Component_="am.pak" FileName="sw.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\sw.pak" SelfReg="false" NextFile="ta.pak"/>
+    <ROW File="ta.pak" Component_="am.pak" FileName="ta.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\ta.pak" SelfReg="false" NextFile="te.pak"/>
+    <ROW File="te.pak" Component_="am.pak" FileName="te.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\te.pak" SelfReg="false" NextFile="th.pak"/>
+    <ROW File="th.pak" Component_="am.pak" FileName="th.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\th.pak" SelfReg="false" NextFile="tr.pak"/>
+    <ROW File="tr.pak" Component_="am.pak" FileName="tr.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\tr.pak" SelfReg="false" NextFile="uk.pak"/>
+    <ROW File="uk.pak" Component_="am.pak" FileName="uk.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\uk.pak" SelfReg="false" NextFile="vi.pak"/>
+    <ROW File="vi.pak" Component_="am.pak" FileName="vi.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\vi.pak" SelfReg="false" NextFile="zhCN.pak"/>
+    <ROW File="zhCN.pak" Component_="am.pak" FileName="zh-CN.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\zh-CN.pak" SelfReg="false" NextFile="zhTW.pak"/>
+    <ROW File="zhTW.pak" Component_="am.pak" FileName="zh-TW.pak" Attributes="0" SourcePath="GitHub\nw.js_w64.msi\locales\zh-TW.pak" SelfReg="false"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
     <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFolder="..\Desktop" PackageFileName="nwjs_w64_mp3" Languages="en" InstallationType="4" UseLargeSchema="true" MsiPackageType="x64"/>
