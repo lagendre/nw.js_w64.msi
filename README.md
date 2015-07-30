@@ -9,4 +9,4 @@ Thanks for nw.js
 
 This package include ffmpegsumo.dll(x64) 42.0.2311.135 from google chrome
 
-Msi made by Advanced Installer,and nwjs_w64 file should be adjusted by yourself!! 
+nwjs_w64.aip file of Advanced Installer project  should be adjusted by yourself!! 
